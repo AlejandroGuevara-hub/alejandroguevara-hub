@@ -44,7 +44,7 @@ I am a student who studies and creates to become a great programmer, updating my
 ### Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandroguevara-hub&show_icons=true&theme=dark&hide_border=true" width="48%">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=alejandroguevara-hub&show_icons=true&theme=dark&hide_border=true" width="48%" &cache_seconds=1800>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandroguevara-hub&theme=dark&hide_border=true" width="48%">
 </p>
 
